@@ -6,10 +6,10 @@ Cliente-> idCliente, nome, telefone, endereco, email\
 Animal-> idAnimal, nome, especie, raca\
 Consulta-> idConsulta, data, motivo, comentario\
 Veterinário-> idVeterinario, nome, especialidade, crmv\
-Serviço-> idServico, nome_servico, preco\
+Serviço-> idServico, nome_servico, preco
 
-Workbench anexado no reposítorio\
+Workbench anexado no reposítorio
 
 Alunos:\
 Joao Carlos de Oliveira Mexias 475\
-Rodrigo Guimarães Pinheiro Pascolato 388\
+Rodrigo Guimarães Pinheiro Pascolato 388
