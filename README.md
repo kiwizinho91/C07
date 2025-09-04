@@ -11,5 +11,5 @@ Serviço-> idServico, nome_servico, preco
 Workbench anexado no reposítorio
 
 Alunos:
-Joao Carlos de Oliveira Mexias 
+Joao Carlos de Oliveira Mexias - 
 Rodrigo Guimarães Pinheiro Pascolato 
