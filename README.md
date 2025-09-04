@@ -1,4 +1,4 @@
-# C07
+# C07 - L2
 # # Projeto Banco de dados -> Estrutura de dados de um sistema de petshop
 
 Entidades:
@@ -9,3 +9,7 @@ Veterinário-> idVeterinario, nome, especialidade, crmv
 Serviço-> idServico, nome_servico, preco
 
 Workbench anexado no reposítorio
+
+Alunos:
+Joao Carlos de Oliveira Mexias 
+Rodrigo Guimarães Pinheiro Pascolato 
